@@ -1,0 +1,303 @@
+[
+    {
+      "img": "https://i.ibb.co/4VVFMKx/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai.jpg",
+      "title": "Delicious Pizza",
+      "name": "Margherita Pizza",
+      "price": 10.49
+    },
+    {
+      "img": "https://i.ibb.co/2MQ2sCQ/grilled-cheeseburger-with-tomato-sesame-bun-generative-ai.jpg",
+      "title": "Tasty Burger",
+      "name": "Classic Cheeseburger",
+      "price": 8.49
+    },
+    {
+      "img": "https://i.ibb.co/Ld5FP5r/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
+      "title": "Savory Pasta",
+      "name": "Spaghetti Carbonara",
+      "price": 12.99
+    },
+    {
+      "img": "https://i.ibb.co/gVYcvCg/fresh-salad-with-vegetables-tomatoes-red-onions-lettuce-quail-eggs-healthy-food-diet-concept-vegetar.jpg",
+      "title": "Yummy Salad",
+      "name": "Caesar Salad",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/MB4Nnmt/maki-roll-with-cucumber-served-with-sauce-sesame-seeds.jpg",
+      "title": "Scrumptious Sushi",
+      "name": "California Roll",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/17gY7Th/side-view-club-sandwich-with-salted-cucumbers-lemon-olives-round-white-plate.jpg",
+      "title": "Hearty Sandwich",
+      "name": "Turkey Club Sandwich",
+      "price": 7.99
+    },
+    {
+      "img": "https://i.ibb.co/fNz1YrS/grilled-beef-steaks-with-spices-herbs-black-slate-black-background-ai-generative.jpg",
+      "title": "Mouthwatering Steak",
+      "name": "Filet Mignon",
+      "price": 24.99
+    },
+    {
+      "img": "https://i.ibb.co/MSD0Xdf/classic-cheesecake-black-tea-armudu-glass.jpg",
+      "title": "Decadent Dessert",
+      "name": "Chocolate Lava Cake",
+      "price": 5.49
+    },
+    {
+      "img": "https://i.ibb.co/HxVJvkh/mixed-berries-smoothie.jpg",
+      "title": "Refreshing Smoothie",
+      "name": "Strawberry Banana Smoothie",
+      "price": 4.99
+    },
+    {
+      "img": "https://i.ibb.co/NYy0t8D/seafood-plate-with-shrimps-mussels-lobsters-served-with-lemon-glass-beer.jpg",
+      "title": "Exquisite Seafood",
+      "name": "Grilled Salmon",
+      "price": 15.99
+    },
+    {
+      "img": "https://i.ibb.co/QJnLcQF/pexels-cats-coming-1907244.jpg",
+      "title": "Homestyle Soup",
+      "name": "Chicken Noodle Soup",
+      "price": 3.99
+    },
+    {
+      "img": "https://i.ibb.co/7N2pG2K/jarritos-mexican-soda-id-P6ct9jkmk-unsplash.jpg",
+      "title": "Authentic Tacos",
+      "name": "Carnitas Tacos",
+      "price": 7.49
+    },
+    {
+      "img": "https://i.ibb.co/5Yqfrfh/bon-vivant-qom5-MPOER-I-unsplash.jpg",
+      "title": "Satisfying Ramen",
+      "name": "Tonkotsu Ramen",
+      "price": 10.49
+    },
+    {
+      "img": "https://i.ibb.co/zsdLLfj/thanti-riess-l9rw-Qsg-KWo-unsplash.jpg",
+      "title": "Gourmet Pizza",
+      "name": "Truffle Mushroom Pizza",
+      "price": 13.99
+    },
+    {
+      "img": "https://i.ibb.co/TLdRJFJ/nadine-primeau-ft-Wfohtj-Nw-unsplash.jpg",
+      "title": "Crunchy Salad",
+      "name": "Greek Salad",
+      "price": 7.99
+    },
+    {
+      "img": "https://i.ibb.co/vjjZm8Y/taylor-kiser-POFG828-GQc-unsplash.jpg",
+      "title": "Flavorful Curry",
+      "name": "Chicken Tikka Masala",
+      "price": 11.99
+    },
+    {
+      "img": "https://i.ibb.co/cx8VYjL/pure-julia-RVe6r6-Sk13-M-unsplash.jpg",
+      "title": "Homemade Pie",
+      "name": "Apple Pie",
+      "price": 8.99
+    },
+    {
+      "img": "https://i.ibb.co/VWtndgJ/abhishek-hajare-6hr5-YZDjy-Hc-unsplash.jpg",
+      "title": "Sizzling Fajitas",
+      "name": "Steak Fajitas",
+      "price": 14.49
+    },
+    {
+      "img": "https://i.ibb.co/GJhf5xK/novila-misastra-4-V3-Gv-MFz-Cak-unsplash.jpg",
+      "title": "Creamy Risotto",
+      "name": "Mushroom Risotto",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/SBXT2WY/orkun-orcan-Evf-XG4a-K9d8-unsplash.jpg",
+      "title": "Irresistible Cheesecake",
+      "name": "New York Cheesecake",
+      "price": 6.49
+    },
+    {
+      "img": "https://i.ibb.co/m93sc9p/luis-santoyo-NBBk-Kv-Un-Zx4-unsplash.jpg",
+      "title": "Juicy Ribs",
+      "name": "BBQ Ribs",
+      "price": 16.99
+    },
+    {
+      "img" :"https://i.ibb.co/kgHLJBx/louis-hansel-Nwo0e-NAYYy-A-unsplash.jpg",
+      "title": "Spicy Wings",
+      "name": "Buffalo Wings",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/mT2MjwM/sharon-chen-L1-Zhj-K-R6uc-unsplash.jpg",
+      "title": "Authentic Pho",
+      "name": "Beef Pho",
+      "price": 10.99
+    },
+    {
+      "img": "https://i.ibb.co/n37sPxq/kobby-mendez-q54-Oxq44-MZs-unsplash.jpg",
+      "title": "Delightful Donuts",
+      "name": "Glazed Donuts",
+      "price": 2.49
+    },
+    {
+      "img": "https://i.ibb.co/1s7zt2m/herson-rodriguez-odou-HPr0-Lqw-unsplash.jpg",
+      "title": "Classic Pancakes",
+      "name": "Buttermilk Pancakes",
+      "price": 5.99
+    },
+    {
+      "img": "https://i.ibb.co/dgPs9Nq/casey-lee-awj7s-Rvi-VXo-unsplash.jpg",
+      "title": "Fresh Sushi Rolls",
+      "name": "Rainbow Roll",
+      "price": 11.99
+    },
+    {
+      "img": "https://i.ibb.co/C06hKxN/jon-tyson-kctt4t-L1dk-E-unsplash.jpg",
+      "title": "Tender Pork Chop",
+      "name": "Grilled Pork Chop",
+      "price": 13.49
+    },
+    {
+      "img": "https://i.ibb.co/tLzkj7R/sestrjevitovschii-ina-7zf-Q6sb-WVy-E-unsplash.jpg",
+      "title": "Creamy Macaroni",
+      "name": "Baked Macaroni and Cheese",
+      "price": 8.99
+    },
+    {
+      "img": "https://i.ibb.co/RBgLyB4/max-griss-3a4g-Rjgdwe-Q-unsplash.jpg",
+      "title": "Homemade Lasagna",
+      "name": "Classic Beef Lasagna",
+      "price": 12.49
+    },
+    {
+      "img": "https://i.ibb.co/KzmGYWY/deborah-rainford-z-Ol-Zg-ELBMRg-unsplash.jpg",
+      "title": "Sizzling Tacos",
+      "name": "Shrimp Tacos",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/Y0z7sRk/kae-ng-qj-M403-Kjw00-unsplash.jpg",
+      "title": "Exotic Stir-Fry",
+      "name": "Thai Basil Stir-Fry",
+      "price": 11.49
+    },
+    {
+      "img": "https://i.ibb.co/jk7XSKX/isabella-mendes-3-UUu-WDd-OXw-unsplash.jpg",
+      "title": "Mouthwatering Nachos",
+      "name": "Loaded Nachos",
+      "price": 7.99
+    },
+    {
+      "img": "https://i.ibb.co/pw7V23S/pranjall-kumar-l-RAApj-OIa-Fs-unsplash.jpg",
+      "title": "Decadent Cupcakes",
+      "name": "Red Velvet Cupcakes",
+      "price": 3.99
+    },
+    {
+      "img": "https://i.ibb.co/gd7STK7/diliara-garifullina-kl-Fddq7z-A9-I-unsplash.jpg",
+      "title": "Savory Empanadas",
+      "name": "Beef Empanadas",
+      "price": 2.99
+    },
+    {
+      "img": "https://i.ibb.co/fHpR5Gc/jingxi-lau-Wfc-Bi-Bvc-Z04-unsplash.jpg",
+      "title": "Hearty Chowder",
+      "name": "New England Clam Chowder",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/7CWyjqZ/rhamely-f96-M0-D25-YJ0-unsplash.jpg",
+      "title": "Freshly Baked Bread",
+      "name": "Artisan Baguette",
+      "price": 3.49
+    },
+    {
+      "img": "https://i.ibb.co/xHt6NXP/serghei-savchiuc-fn9d-H8-CIQY-unsplash.jpg",
+      "title": "Gourmet Macarons",
+      "name": "Assorted French Macarons",
+      "price": 2.99
+    },
+    {
+      "img": "https://i.ibb.co/BNMxZJQ/louis-hansel-h6-Uh8-YECcqg-unsplash.jpg",
+      "title": "Tropical Smoothie Bowl",
+      "name": "Acai Bowl",
+      "price": 8.99
+    },
+    {
+      "img": "https://i.ibb.co/yWKvQTv/alexandra-gorn-N-en-D-8s3n-I-unsplash.jpg",
+      "title": "Fluffy Pancakes",
+      "name": "Blueberry Pancakes",
+      "price": 6.49
+    },
+    {
+      "img": "https://i.ibb.co/WtsRtK2/s-o-c-i-a-l-c-u-t-y6-FMAWi-Fe-EQ-unsplash.jpg",
+      "title": "Zesty Tacos",
+      "name": "Fish Tacos",
+      "price": 10.99
+    },
+    {
+      "img": "https://i.ibb.co/vXJjGrx/fabrice-adjanor-10o-TCRT9-B9g-unsplash.jpg",
+      "title": "Homestyle Meatloaf",
+      "name": "Classic Beef Meatloaf",
+      "price": 11.49
+    },
+    {
+      "img": "https://i.ibb.co/wggCJKd/hybrid-storytellers-QSHs-VUTLIRU-unsplash.jpg",
+      "title": "Sizzling Fajitas",
+      "name": "Chicken Fajitas",
+      "price": 12.99
+    },
+    {
+      "img": "https://i.ibb.co/WxRk2n9/sestrjevitovschii-ina-7zf-Q6sb-WVy-E-unsplash-1.jpg",
+      "title": "Creamy Alfredo Pasta",
+      "name": "Fettuccine Alfredo",
+      "price": 9.99
+    },
+    {
+      "img": "https://i.ibb.co/SKgw9hh/heather-barnes-g-P1-Yecp-Ry-D8-unsplash.jpg",
+      "title": "Rich Hot Chocolate",
+      "name": "Belgian Hot Chocolate",
+      "price": 4.99
+    },
+    {
+      "img": "https://i.ibb.co/4MfqZrv/taylor-kiser-POFG828-GQc-unsplash-1.jpg",
+      "title": "Spicy Tofu Stir-Fry",
+      "name": "Szechuan Tofu",
+      "price": 8.99
+    },
+    {
+      "img": "https://i.ibb.co/SsVh7ZB/priscilla-du-preez-kdj-S-b-Gh-M2-U-unsplash.jpg",
+      "title": "Homemade Guacamole",
+      "name": "Classic Guacamole",
+      "price": 5.99
+    },
+    {
+      "img": "https://i.ibb.co/GprQLwt/jesse-cortez-DESJBCk-Fk-F8-unsplash.jpg",
+      "title": "Flavorful Gyro",
+      "name": "Lamb Gyro",
+      "price": 10.49
+    },
+    {
+      "img": "https://i.ibb.co/Qj73Ggh/kura-tregenza-Ul-PLmb-SOu-w-unsplash.jpg",
+      "title": "Satisfying Dumplings",
+      "name": "Steamed Pork Dumplings",
+      "price": 7.49
+    },
+    {
+      "img": "https://i.ibb.co/M8dyxc5/nadine-primeau-ft-Wfohtj-Nw-unsplash-1.jpg",
+      "title": "Classic Caesar Salad",
+      "name": "Caesar Salad",
+      "price": 6.99
+    },
+    {
+      "img": "https://i.ibb.co/wWKBddf/daniel-lee-Tw2c-U6-Vv-TZo-unsplash.jpg",
+      "title": "Gourmet Cheese Platter",
+      "name": "Artisanal Cheese Selection",
+      "price": 18.99
+    }
+  ]
+  
